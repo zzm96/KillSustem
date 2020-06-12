@@ -1,0 +1,20 @@
+[2020-06-08 17:13:37.257] boot -  INFO [RMI TCP Connection(5)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 17:14:20.657] boot -  INFO [localhost-startStop-2] --- DruidDataSource: {dataSource-1} closed
+[2020-06-08 17:32:10.108] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 17:42:57.941] boot -  INFO [localhost-startStop-2] --- DruidDataSource: {dataSource-1} closed
+[2020-06-08 17:44:24.475] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 17:47:05.468] boot -  INFO [localhost-startStop-2] --- DruidDataSource: {dataSource-1} closed
+[2020-06-08 17:57:54.884] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 18:28:42.697] boot -  INFO [localhost-startStop-2] --- DruidDataSource: {dataSource-1} closed
+[2020-06-08 18:29:20.803] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 18:34:36.710] boot -  INFO [localhost-startStop-2] --- DruidDataSource: {dataSource-1} closed
+[2020-06-08 18:35:01.190] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 19:07:11.563] boot -  INFO [localhost-startStop-2] --- DruidDataSource: {dataSource-1} closed
+[2020-06-08 21:33:11.687] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 21:33:12.356] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} closed
+[2020-06-08 21:39:55.201] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 21:39:59.529] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} closed
+[2020-06-08 21:52:38.805] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 21:54:24.372] boot -  INFO [localhost-startStop-2] --- DruidDataSource: {dataSource-1} closed
+[2020-06-08 21:54:59.854] boot -  INFO [RMI TCP Connection(3)-127.0.0.1] --- DruidDataSource: {dataSource-1} inited
+[2020-06-08 22:29:20.874] boot -  INFO [localhost-startStop-2] --- DruidDataSource: {dataSource-1} closed
